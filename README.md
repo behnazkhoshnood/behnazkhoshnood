@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behnazkhoshnood
+- 👋 Hi,
 - 👀 I’m interested in front-end development and UI_UX design
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on hacktoberfest
